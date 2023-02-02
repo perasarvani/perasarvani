@@ -1,16 +1,12 @@
 ### Hi there 👋
+- This is sarvani.
+- 🔭 I’m currently working on my technicak skills and i want to improve it.
+- 🌱 I’m currently learning courses like web apps ,opps ,database.
+- 👯 I’m looking to collaborate with my co masters students
+- 🤔 I’m looking for help with poor people.
+- 💬 Ask me about carrer doubts.
+- 📫 How to reach me: sarvanipera@gmail.com
+- 😄 Pronouns: sarvani
+- ⚡ Fun fact: iam very silent person
+- I am sarvani from india ,iam currently doing my masters in Northwest missouri state university.
 
-<!--
-**perasarvani/perasarvani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
